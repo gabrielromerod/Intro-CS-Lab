@@ -24,6 +24,8 @@ Antes de aprender como usar git debemos conocer a la terminal, ya que para inter
 
     ![Power Shell Image](https://www.muycomputerpro.com/wp-content/uploads/2019/04/PowerShell7.jpg)
 
+- MAC y Linux cuentan con famoso un shell llamado Unix
+
 
 
 
@@ -43,3 +45,4 @@ pwd -> Print Working Directory
 mkdir -> Create a Directory
 
 ```
+2. 
