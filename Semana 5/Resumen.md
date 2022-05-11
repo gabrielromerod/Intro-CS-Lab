@@ -43,6 +43,11 @@ cd -> Change Directory
 ls -> List Files == dir Windows
 pwd -> Print Working Directory
 mkdir -> Create a Folder
+rm -> Remove File
+rm -r -> Remove Directory
+cat > -> Create file
+mv -> Move File or Directory
+cd .. -> Volver al repositorio anterior
 ```
 
 1. cd - Change Directory permite moverse entre directorios una actividad que hacemos a diario en el explorador de archivos:
