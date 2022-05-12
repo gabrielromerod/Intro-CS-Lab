@@ -55,6 +55,7 @@ select*from Escala;
 select*from Alumnos, CursosMat, Cursos;
 ``` 
 ![Tabla Escala](https://i.ibb.co/gdZLzfh/Screen-Shot-2022-05-12-at-2-27-21-PM.png)
+
 8. Consultar datos específicos:
 ```
 select nombre, costo from Escala;
