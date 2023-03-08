@@ -139,3 +139,8 @@ git remote add origin  <REMOTE_URL>
 ```
 git push
 ```
+
+Si quieres ver el nombre y correo de la cuenta:
+```
+git config -e --global
+```
